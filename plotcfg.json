@@ -1,0 +1,8 @@
+{
+    "title": "test",
+    "width": 100,
+    "label": [
+        "humidity",
+        "temperature"
+    ]
+}
