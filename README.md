@@ -3,13 +3,11 @@ This is an example PlatformIO project to show how to use the PlatformIO plotting
 <p>This tools is the equivalent to the Arduino IDE's serial plotter for the PlatformIO</p>
 
 ## Running it as part of PlatformIO monitor filter ##
-1. Install the arduplot first<pre>ip install arduplot</pre>
-2. copy ~/.platformio/penv/lib/python3.9/site-packages/arduplot/filter_plotter.py to either 
-<pre>
+1. Install the arduplot first<pre>pip install arduplot</pre>
+2. copy ~/.platformio/penv/lib/python3.9/site-packages/arduplot/filter_plotter.py to either<pre>
 (project_dir)/monitor, 
 </pre> 
-for every project, or 
-<pre>
+for every project, or<pre>
 ~/.platformio/platform/espressif8266/monitor (or ~/.platformio/platform/espressif32/monitor for esp32)
 </pre>
 Or you can just set the environment variable as below and run this without copying.
