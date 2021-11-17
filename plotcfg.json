@@ -1,8 +1,8 @@
 {
-    "title": "test",
+    "title": "Thermometer",
     "width": 100,
     "label": [
-        "humidity",
-        "temperature"
+        "Temperature",
+        "Humidity"
     ]
 }
