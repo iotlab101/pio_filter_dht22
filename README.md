@@ -1,5 +1,5 @@
 # Example PlatformIO Project for esp8266 & dht22
-This is an example PlatformIO project to show how to use the PlatformIO plotting community filter (https://github.com/yhur/arduplot.git). 
+This is an example PlatformIO project to show how to use the **arduplot**, a PlatformIO plotting community filter (https://github.com/yhur/arduplot.git). 
 <p>This tools is the equivalent to the Arduino IDE's serial plotter for the PlatformIO</p>
 
 ## Running it as part of PlatformIO monitor filter ##
